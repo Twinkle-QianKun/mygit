@@ -1,6 +1,0 @@
-插件名字:【Apothecary Kit】药剂师
-插件ID:	794627893
-
-插件名字:【Kibble Matrix】饲料矩阵制作机
-插件ID:	902290346
-
